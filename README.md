@@ -1,6 +1,8 @@
-![Uploading image.png…]()
+<p align="center">
+  <img src="./banner-github.png" alt="Banner Guilherme Oliveira" width="100%">
+</p>
 
-
+<br>
 
 # Olá, eu sou Guilherme Oliveira 👋
 
