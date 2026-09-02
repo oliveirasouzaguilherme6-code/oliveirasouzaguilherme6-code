@@ -2,9 +2,10 @@
 <p align="center">
   <img src="./banner-github.png" alt="Banner Guilherme Oliveira" width="100%">
 </p>
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/6a7c01f7-87ee-4100-9f38-d8f080eb2c99" />
 
 <br>
-<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/cf33618d-f142-44b6-adb6-69bd96141f93" />
+
 
 
 # Olá, eu sou Guilherme Oliveira 👋
