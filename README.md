@@ -4,6 +4,7 @@
 </p>
 
 <br>
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/cf33618d-f142-44b6-adb6-69bd96141f93" />
 
 
 # Olá, eu sou Guilherme Oliveira 👋
