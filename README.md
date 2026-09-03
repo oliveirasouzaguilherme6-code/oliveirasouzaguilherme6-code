@@ -8,7 +8,7 @@
 
 <br>
 
-# 👋 Olá, eu sou Guilherme Oliveira
+# 👋 Olá, me chamo Guilherme Oliveira!
 
 ### Desenvolvedor em formação | Análise e Desenvolvimento de Sistemas
 
