@@ -1,7 +1,9 @@
-<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/16c63dc4-af47-48b7-98f6-6f8bb83a56e7" />
-
 <p align="center">
-  <img src="./banner-github.png" alt="Banner Guilherme Oliveira" width="100%">
+  <img
+    src="https://github.com/user-attachments/assets/16c63dc4-af47-48b7-98f6-6f8bb83a56e7"
+    alt="Guilherme Oliveira"
+    width="100%"
+  >
 </p>
 
 <br>
