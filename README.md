@@ -1,7 +1,6 @@
 <p align="center">
   <img
-    src="<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/026af335-5554-47f4-8ec0-b384d70d251d" />
-"
+    src="https://github.com/user-attachments/assets/026af335-5554-47f4-8ec0-b384d70d251d"
     alt="Guilherme Oliveira"
     width="100%"
   >
