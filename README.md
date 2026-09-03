@@ -6,47 +6,69 @@
 
 <br>
 
-# Olá, eu sou Guilherme Oliveira 👋
+# 👋 Olá, eu sou Guilherme Oliveira
 
-### Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor em formação
+### Desenvolvedor em formação | Análise e Desenvolvimento de Sistemas
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, focado em evoluir constantemente na área de tecnologia através de estudos, projetos acadêmicos e desenvolvimento de aplicações na prática.
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha trajetória na tecnologia através de projetos práticos, estudos constantes e desenvolvimento de aplicações web.
 
-Tenho interesse principalmente em desenvolvimento web, sistemas, banco de dados e construção de soluções que transformem ideias em projetos funcionais.
+Tenho foco em desenvolvimento de sistemas, interfaces web e banco de dados, buscando evoluir tanto na parte técnica quanto na organização e estruturação de projetos.
 
-Busco aprimorar minha lógica de programação, organização de código e conhecimento em desenvolvimento front-end e back-end.
-
----
-
-## 💻 Tecnologias e ferramentas
-
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- PHP
-- MySQL
-- Bootstrap
-- Git
-- GitHub
+Gosto de transformar ideias em aplicações funcionais, aprender novas tecnologias e aplicar o conhecimento em projetos acadêmicos e pessoais.
 
 ---
 
-## 🚀 Atualmente
+## 🚀 Sobre mim
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas
-- 💻 Desenvolvendo projetos acadêmicos e pessoais
-- 🌐 Estudando desenvolvimento web front-end e back-end
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 💻 Desenvolvendo projetos web e sistemas
+- 🧠 Estudando lógica de programação e arquitetura de aplicações
 - 🗄️ Aprofundando conhecimentos em banco de dados
-- 🧠 Evoluindo em lógica de programação e estruturação de sistemas
-- 🔨 Aplicando o aprendizado em projetos reais
+- ⚙️ Trabalhando com integração entre front-end, back-end e APIs
+- 📈 Buscando evolução constante através da prática
 
 ---
 
-## 🎯 Objetivos
+## 💻 Tecnologias
 
-Meu objetivo é evoluir como desenvolvedor, construir projetos cada vez mais completos e transformar conhecimento técnico em soluções úteis, organizadas e profissionais.
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+
+</div>
 
 ---
 
-> Construindo, aprendendo e evoluindo um projeto de cada vez.
+## 🛠️ Conhecimentos em desenvolvimento
+
+Atualmente venho estudando e praticando:
+
+- Desenvolvimento web com HTML, CSS e JavaScript
+- Desenvolvimento com TypeScript
+- Back-end com PHP
+- Banco de dados MySQL
+- APIs e integração de dados com JSON
+- Programação assíncrona com Promises e `async/await`
+- Git e GitHub
+- Bootstrap e interfaces responsivas
+- Estruturação de sistemas e organização de projetos
+
+---
+
+## 📚 Em evolução constante
+
+Busco desenvolver projetos cada vez mais completos, melhorar minha lógica de programação e aprofundar meus conhecimentos em desenvolvimento de sistemas.
+
+Meu objetivo é construir uma base sólida como desenvolvedor e evoluir continuamente através de projetos reais e aprendizado prático.
+
+---
+
+### 🚀 Sempre aprendendo. Sempre construindo. Sempre evoluindo.
